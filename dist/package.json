@@ -1,0 +1,17 @@
+{
+    "version": "1.0.0",
+    "author": {"name":"Wesley Petian","email":"Wesley.Petian@gmail.com"},
+    "resources": [
+        {
+            "resourceId": "rId0",
+            "sourceType": 5,
+            "file": "resources/circleCardAAE934EF08AE4054906A8479816CCF26.pbiviz.json"
+        }
+    ],
+    "visual": {"name":"circleCard","displayName":"Circle Card","guid":"circleCardAAE934EF08AE4054906A8479816CCF26","visualClassName":"Visual","version":"1.0.0","description":"Exibe um valor de medida formatado dentro de um círculo","supportUrl":"https://github.com/wpetian/PowerBI-visuals-circlecard","gitHubUrl":"https://github.com/wpetian/PowerBI-visuals-circlecard"},
+    "metadata": {
+        "pbivizjson": {
+            "resourceId": "rId0"
+        }
+    }  
+}
